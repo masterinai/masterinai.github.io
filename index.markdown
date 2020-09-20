@@ -20,3 +20,6 @@ LA004 Linear Algebra
 [BR007 Brains, Minds and Machines](https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/index.htm)
 
 [OP008 Open Project](https://github.com/kishansagathiya/ai-project-ideas)
+
+
+{% include subscription_form.html %}
