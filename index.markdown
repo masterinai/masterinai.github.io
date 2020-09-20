@@ -5,10 +5,18 @@
 layout: home
 ---
 
-[RL006 Reinforcement Learning Course](/reinforcement-learning/)
+ML001 Machine Learning Fundamentals
 
-[NL005 Natural Language Processing Course](https://web.stanford.edu/class/cs224n/)
+NN002 Neural Networks
 
-[CV003 Computer Vision Course](https://cs231n.github.io/)
+[CV003 Computer Vision](https://cs231n.github.io/)
+
+LA004 Linear Algebra 
+
+[NL005 Natural Language Processing](https://web.stanford.edu/class/cs224n/)
+
+[RL006 Reinforcement Learning](/reinforcement-learning/)
 
 [BR007 Brains, Minds and Machines](https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/index.htm)
+
+[OP008 Open Project](https://github.com/kishansagathiya/ai-project-ideas)
