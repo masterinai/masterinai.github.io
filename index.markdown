@@ -4,6 +4,7 @@
 
 layout: home
 ---
+`Finish following 8 courses and get an unaccredited Master in AI certificate.`
 
 ML001 Machine Learning Fundamentals
 
