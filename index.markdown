@@ -10,7 +10,8 @@ ML001 Machine Learning Fundamentals
 
 NN002 Neural Networks
 
-[CV003 Computer Vision](https://cs231n.github.io/)
+[CV003 Computer Vision]
+- I am preparing [my own Computer Vision course](./computer-vision). Except that I recommend [the Computer Vision course by Stanford](https://cs231n.github.io/) and by the CNN course by deeplearning.ai on Coursera.
 
 LA004 Linear Algebra 
 

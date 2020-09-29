@@ -4,8 +4,6 @@ title:  "Computer Vision"
 mathjax: true
 ---
 
-[Introduction to CNN](./cnn)
-
 [Residual Networks](./resnet)
 
 [Object Detection](./object-detection)
